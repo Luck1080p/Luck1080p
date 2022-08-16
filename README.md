@@ -35,7 +35,7 @@
    <a href = "mailto:lucasbcontato@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?" target="_blank"></a>
  
 
-![Snake animation](https://github.com/luck1080p/luck1080p/blob/output/github-contribution-grid-snake.svg) 
+![Snake animation](https://github.com/Luck1080p/Luck1080p/blob/output/github-contribution-grid-snake.svg) 
 
 
 <!--
