@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I'm Lucas and this is my projects repository
 
-- 🔭 I’m currently working as a administrator systems devops 
+- 🔭 I’m currently working as a cloud analyst on GCP, planning architecture and deployment on the cloud environment
 - 🌱 I’m currently learning devops tools, cloud plataforms, and backend languages
 - ⚡ Fun fact: I am trained as a chemistry technician
 
