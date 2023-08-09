@@ -28,7 +28,7 @@
 ##
 
 <div align="center" style="display: inline_block">
- <a href="https://discord.gg/Luck1080p#9583" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://discord.gg/users/1036072387038433361" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:lucasbcontato@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/lucas-de-brito-rodrigues-dos-santos-b4315b208" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
    <a href = "mailto:lucasbcontato@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?" target="_blank"></a>
