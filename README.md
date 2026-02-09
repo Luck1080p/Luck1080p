@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lucas Brito R. Santos
+# 👋 Hi, I'm Lucas Brito
 
 I am a **Cloud Architect** with hands-on experience in **DevOps and cloud infrastructure**, focused on designing scalable, secure, and well-architected cloud environments.
 
